@@ -7,7 +7,7 @@ Simple attribute that turns a normal string field into a dropdown of all availab
 ## Installing & Using the Attribute
 
 - Download the source code or check the [releases on this repository](https://github.com/WSWhitehouse/Unity-Input-Selector/releases) for a specific Unity Package download or download the [Latest Unity Package](https://github.com/WSWhitehouse/Unity-Input-Selector/releases/latest)
-  - If you dowloaded the Unity Package you will need to import it. `Assets -> Import Package -> Custom Package` and select the Unity Package you just downloaded
+  - If you downloaded the Unity Package you will need to import it. `Assets -> Import Package -> Custom Package` and select the Unity Package you just downloaded
 - Put a `[InputSelector]` attribute in front of any string field 
 
   [![Image from Gyazo](https://i.gyazo.com/d783ec4278658659b5861c38af29e7ee.png)](https://gyazo.com/d783ec4278658659b5861c38af29e7ee)
